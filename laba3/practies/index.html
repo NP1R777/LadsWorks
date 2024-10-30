@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Магазин продуктов</title>
+</head>
+<body class="mt-32 ml-64">
+    <div id="root" class="w-4/5">
+        <script src="main.js" type="module"></script>
+        <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script>
+            function openWindow(id) {
+                switch(id) {
+                    case 1:
+                        window.location.replace("./pages/card1.html")
+                        break;
+
+                    case 2:
+                        window.location.replace("./pages/card2.html")
+                        break;
+                    
+                    case 3:
+                        window.location.replace("./pages/card3.html")
+                        break;
+                }
+            }
+        </script>
+    </div>
+</body>
+</html>

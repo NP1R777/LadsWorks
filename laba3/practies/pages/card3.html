@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Document</title>
+</head>
+<body class="mt-56 h-4/5">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <div class="w-5/12 m-auto rounded-lg border-solid border-1 border-black">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src="../pictures/Снимок экрана 2024-10-25 194505.png"
+                        class="w-32 top-1 translate-y-1 rounded-2xl ml-6" alt="картинка">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">Сыр (сметанный)</h5>
+                    <p class="text-balance">
+                        Сыр — пищевой продукт в виде твёрдой или полутвёрдой массы,
+                        получаемый в процессе сыроделия из заквашиваемого особым способом молока.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <button id="card-1" class="btn btn-primary block w-100 h-10 mt-2" onclick="backWindow()">Вернуться назад</button>
+        <script>
+            function backWindow() {
+                window.location.replace("../index.html")
+            }
+        </script>
+    </div>
+</body>
+</html>

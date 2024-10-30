@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="mt-56">
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <div class="w-5/12 m-auto rounded-lg border-solid border-1 border-black">
+        <div class="row g-0">
+            <div class="col-md-4">
+            <img src="../pictures/254553bd-3c6e-5178-b18c-20c826b67021.jpeg" 
+            class="w-40 top-6 translate-y-6 rounded-2xl ml-2" alt="картинка">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">Хлеб (домашний)</h5>
+                    <p class="text-balance">
+                        Хлеб — пищевой продукт, получаемый путём выпечки, паровой обработки или жарки теста,
+                        состоящего как минимум из муки и воды. В большинстве случаев добавляется соль,
+                        а также используется разрыхлитель, такой как дрожжи.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <button id="card-1" class="btn btn-primary block w-100 h-10 mt-2"
+                            onclick="backWindow()">Вернуться назад</button>
+        <script>
+            function backWindow() {
+                window.location.replace("../index.html")
+            }
+        </script>
+    </div>
+</body>
+</html>
