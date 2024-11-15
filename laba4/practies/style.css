@@ -1,0 +1,11 @@
+#sortButtons {
+    width: 500px;
+    height: 60px;
+    border: solid black 2px;
+    display: block;
+    text-align: center;
+    margin-left: 210px;
+    margin-bottom: 20px;
+    margin-top: -50px;
+    border-radius: 10px;
+};
