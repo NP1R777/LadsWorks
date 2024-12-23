@@ -16,7 +16,7 @@ for (let i = 0; i < dataNames.length; i++) { arrayNames.push(dataNames[i].getAtt
 
 for (let i = 0; i < 9; i++) { dataId.push(document.getElementsByName(`${i}`)) }
 
-for (let i = 0; i < dataId.length; i++) { id.push(dataId[i][0].id) }
+for (let i = 0; i < dataId.length - 1; i++) { id.push(dataId[i][0].id) }
 
 export const exportArrayNames = arrayNames
 export const exportIdPeoples = id
