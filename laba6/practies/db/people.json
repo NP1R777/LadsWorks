@@ -1,0 +1,73 @@
+[
+    {
+        "id": 166466418,
+        "photo_400_orig": "https://sun145-1.userapi.com/s/v1/ig2/dv9xYVxqWhIfgTv7kz7hhAjmRd_lUZ6CyE9tEy7Q5QBLgKBpCD_u_Yj8M1_OA6UOGhWuO6Bm9wkMHR7iLvrT7VBw.jpg?quality=95&crop=395,747,1217,1217&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&cs=240x240",
+        "first_name": "Денис",
+        "last_name": "Шелепов",
+        "can_access_closed": true,
+        "is_closed": false
+    },
+
+    {
+        "id": 299273882,
+        "photo_400_orig": "https://sun145-1.userapi.com/s/v1/ig2/Ghj5CEd2_4b0Od_NUruElMi2hxrIXA2IEtrkNjYVD1OC2iqY-X8-R9KBd7-vaDszgjz2vj0zEyhQ4VACx8LQnYma.jpg?quality=95&crop=2,51,1077,1077&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240",
+        "first_name": "Настя",
+        "last_name": "Пахоленко",
+        "can_access_closed": true,
+        "is_closed": false
+    },
+
+    {
+        "id": 386844858,
+        "photo_400_orig": "https://sun145-2.userapi.com/s/v1/if1/JngwI_L4G_binKpG-OHMSrEaZsMo9BOlu4qjtqzBp-ePNnqmpVgZlqu4M8l3AVwajLPyLQ.jpg?quality=96&crop=0,540,1620,1620&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=240x240",
+        "first_name": "Дмитрий",
+        "last_name": "Плескач",
+        "can_access_closed": true,
+        "is_closed": false
+    },
+
+    {
+        "id": 444760790,
+        "photo_400_orig": "https://sun128-1.userapi.com/s/v1/ig2/bhleQpLJxvhJOe1b-zxpaVemP0Wm49GVUwmYsJhslnT3PrgFSxQCuQDvYUinz40edpuH6XB6jC4QATWri6N4q3Jl.jpg?quality=95&crop=427,0,1078,1078&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240",
+        "first_name": "Даниил",
+        "last_name": "Ворончук",
+        "can_access_closed": true,
+        "is_closed": false
+    },
+
+    {
+        "id": 465993536,
+        "photo_400_orig": "https://sun128-2.userapi.com/s/v1/ig2/Hu5VZGaZ-YAlotz2Hj_wVmt3DGaNImNbd7eAS9sIuOYUEotlUmoFMKOE8FB3sOOq8T-3AQ74n1aylJBi3HF1v6u-.jpg?quality=95&crop=4,2,1161,1161&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&cs=240x240",
+        "first_name": "Сергей",
+        "last_name": "Разухин",
+        "can_access_closed": true,
+        "is_closed": false
+    },
+
+    {
+        "id": 548950281,
+        "photo_400_orig": "https://sun145-2.userapi.com/s/v1/ig2/FnT5EGxA3ImzM9CXMsFAGVzspQ7sg3t1XwGrHF9bxPpslbV3FpRfZxIQOt82rsLre2OQvKe3w1UkcZMPDN6z4Rhm.jpg?quality=95&crop=191,0,1075,1075&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240",
+        "first_name": "Илья",
+        "last_name": "Захаров",
+        "can_access_closed": true,
+        "is_closed": false
+    },
+
+    {
+        "id": 668851232,
+        "photo_400_orig": "https://sun128-1.userapi.com/s/v1/ig2/zdcMupWPTwd20YFaTByfvLJUdV9zlFEMVUQb9AqogZBC2PSdvChhd46eqN5xTw0_m7bLkukq5-LB3UxQaU-BO5W1.jpg?quality=95&crop=17,32,861,861&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=240x240",
+        "first_name": "Влада",
+        "last_name": "Сологубова",
+        "can_access_closed": true,
+        "is_closed": true
+    },
+
+    {
+        "id": 685391236,
+        "photo_400_orig": "https://sun128-2.userapi.com/s/v1/ig2/-g1L38hPyrAD3bX0dQFMJfnvqL7PdVv5nCP6OwPzM2geMGM51E0uwptSjw1lcD5a9PkntJxi2eZPCT29XtMN-wYn.jpg?quality=95&crop=200,0,630,630&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&cs=240x240",
+        "first_name": "Pavel",
+        "last_name": "Krivoruchko",
+        "can_access_closed": true,
+        "is_closed": false
+    }
+]

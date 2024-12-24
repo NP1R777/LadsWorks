@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="/Web/node_modules/jquery/dist/jquery.js"></script>
+    <title>Страница тестового сообщества</title>
+</head>
+<body class="mt-24 ml-64 mb-5">
+    <div id="root" class="w-4/5">
+        <script src="main.js" type="module"></script>
+        <script src="pages/pages.js" type="module"></script>
+        <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script>
+            function openWindow(id) { window.location.replace("./pages/card.html") }
+            function deleteCard(id) { document.getElementById(id).style.display = 'none'; }
+        </script>
+        <div id="sortButtons">
+            <button id="btn1" class="btn btn-primary"    style="border: solid black 2px;
+                                                                margin-top: 8px;">
+                Сортировка по возрастанию
+            </button>
+            <button id="btn2" class="btn btn-primary"    style="border: solid black 2px;
+                                                                margin-top: 8px">
+                Сортировка по убыванию
+            </button>
+        </div>
+    </div>
+</body>
+</html>
